@@ -3,7 +3,6 @@
 use PHPUnit\Framework\TestCase;
 
 use Src\Models\PostModel;
-use Src\tests\ReflectionHelper;
 
 class PostModelTest extends TestCase
 {
